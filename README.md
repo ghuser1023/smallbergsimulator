@@ -1,5 +1,4 @@
 # Smallberg Simulator
-<img src="https://github.com/ghuser1023/smallbergsimulator/blob/master/StaticImages/CS32.png?raw=true" width="100%">
 
 ## [Smallberg's Bruinwalk](https://www.bruinwalk.com/professors/david-a-smallberg/)
 <img src="https://github.com/ghuser1023/smallbergsimulator/blob/master/StaticImages/CS32.png?raw=true" width="100%">
