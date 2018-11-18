@@ -1,4 +1,4 @@
-# smallbergsimulator
+# Smallberg Simulator
 # :D
 
 Welcome to Smallberg Simulator!  
