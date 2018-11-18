@@ -1,6 +1,6 @@
 # Smallberg Simulator
 ## [Smallberg's Bruinwalk](https://www.bruinwalk.com/professors/david-a-smallberg/)
-![Little picture of Smallberg sprite](https://raw.githubusercontent.com/ghuser1023/smallbergsimulator/master/Sprites/Smallberg%20Walk%20Animation/smallbergWalk.gif "Smallberg 2020")
+<img src="https://raw.githubusercontent.com/ghuser1023/smallbergsimulator/master/Sprites/Smallberg%20Walk%20Animation/smallbergWalk.gif" width="200">
 
 Welcome to Smallberg Simulator!  
 
