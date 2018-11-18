@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Student
   layers:
   - Default
   - TransparentFX
@@ -13,8 +14,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Background
+  - Player
   - 
   - 
   - 
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 41357985
+    locked: 0
+  - name: Chairs
+    uniqueID: 1372128717
+    locked: 0
+  - name: People
+    uniqueID: 4294306947
     locked: 0
