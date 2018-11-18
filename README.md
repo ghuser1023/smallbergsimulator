@@ -1,5 +1,5 @@
 # Smallberg Simulator
-## [Smallberg's Bruinwalk}(https://www.bruinwalk.com/professors/david-a-smallberg/)
+## [Smallberg's Bruinwalk](https://www.bruinwalk.com/professors/david-a-smallberg/)
 
 Welcome to Smallberg Simulator!  
 
