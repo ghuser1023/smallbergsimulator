@@ -14,4 +14,5 @@ Use arrow keys move Prof. Smallberg
 Collide into the students to wake them up!  
 
 ## Background:
+<img src="https://github.com/ghuser1023/smallbergsimulator/blob/master/Sprites/Smallberg%20Action%20Animation/smallbergAction.gif?raw=true" width="100">
 Built on Unity, music made with FL studio. Created with lots of love.
